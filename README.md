@@ -16,4 +16,3 @@ To view the live version of the webpage, [click here](https://toolify-widgets.ne
 
 ![Toolify Homepage](Toolify%20-%20Online%20widget%20Home%20page.png)
 
-# Edited by Arsalan Mateen
